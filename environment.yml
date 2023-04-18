@@ -1,0 +1,9 @@
+name: zarr-playground
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - zarr
+  - numpy
+  - PIL
+  - matplotlib
